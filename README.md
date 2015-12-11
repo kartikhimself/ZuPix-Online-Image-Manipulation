@@ -15,9 +15,20 @@ Key features: layers, transparency, offline graphics editing.
 It works in all modern browsers that support HTML5.
 
 Used libraries:
-1. JQuery-  
+
+| Name        |   Links         |
+| ------------- |:-------------:|
+| JQuery      | http://jquery.com/| 
+| Menu     | http://blog.geotitles.com/2011/09/creating-the-new-top-black-bar-found-in-google-and-all-its-products/  |
+| ImageFilters | https://github.com/arahaya/ImageFilters.js    |
+| glfx.js | http://evanw.github.io/glfx.js/    |
+| Html5slider| https://github.com/fryn/html5slider     |
+| exif.js | https://github.com/jseidelin/exif-js   |
+
+
+1. JQuery -  
 http://jquery.com/
-2. Menu- 
+2. Menu - 
 http://blog.geotitles.com/2011/09/creating-the-new-top-black-bar-found-in-google-and-all-its-products/
 3. ImageFilters.js- 
 https://github.com/arahaya/ImageFilters.js
