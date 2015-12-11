@@ -26,15 +26,4 @@ Used libraries:
 | exif.js | https://github.com/jseidelin/exif-js   |
 
 
-1. JQuery -  
-http://jquery.com/
-2. Menu - 
-http://blog.geotitles.com/2011/09/creating-the-new-top-black-bar-found-in-google-and-all-its-products/
-3. ImageFilters.js- 
-https://github.com/arahaya/ImageFilters.js
-4. glfx.js- 
-http://evanw.github.io/glfx.js/
-5. html5slider.js-
-https://github.com/fryn/html5slider
-6. exif.js -
-https://github.com/jseidelin/exif-js
+
