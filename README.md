@@ -1,6 +1,6 @@
 # ZuPix Online Image Editor
 
-[a DEMO](https://github.com/user/repo/blob/branch/other_file.md)
+##[DEMO](http://kartiksharma.me/projects/zupix/)
 
 for more question at kshark05@gmail.com
 
